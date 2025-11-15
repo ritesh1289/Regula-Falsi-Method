@@ -1,6 +1,6 @@
-Aim:- Regula-Falsi-Method
-Program:- 
-        #include <stdio.h>
+
+                                                       // Code 
+#include <stdio.h>
 #include <math.h>
 
 float f(float x) {
